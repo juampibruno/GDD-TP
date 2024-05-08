@@ -18,7 +18,8 @@ El objetivo principal de este proyecto es crear un sistema de gestión de datos 
 
 ## Instalación
 
-Este proyecto no requiere una instalación específica. Sin embargo, se recomienda tener acceso a un servidor de bases de datos compatible con SQL Server para ejecutar los scripts de creación y migración de datos.
+Para cargar la base de datos y ejecutar los scripts, sigue las instrucciones detalladas en el enunciado del proyecto. Asegúrate de tener acceso a un servidor de bases de datos compatible con SQL Server y sigue los pasos proporcionados para ejecutar los scripts de creación y migración de datos.
+
 
 ## Uso
 
