@@ -1,0 +1,1 @@
+sqlcmd -S NAME-PC -i gd_esquema.Schema.sql,gd_esquema.Maestra.sql,gd_esquema.Maestra.Table.sql -a 32767
